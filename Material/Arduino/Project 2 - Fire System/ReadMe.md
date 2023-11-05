@@ -35,6 +35,14 @@ The pin connections for the components are defined as follows:
 - Servo -> Digital Pin 9
 - LCD -> Digital Pins 12, 11, 4, 5, 6, 7
 
+## TinkerCAD Simulation
+
+For those who do not have physical access to the components, a simulation has been created using TinkerCAD. You can interact with the virtual circuit and test the functionality of the Fire System project by following this link:
+
+[TinkerCAD Fire System Simulation](https://www.tinkercad.com/things/dYfGVQhx1Wf-fabulous-kasi/editel?sharecode=XeMcT0boFxIfJlnGwKKgmP8Np4CQ_SAWB1JfKzX3AZE)
+
+Please note, you may need a TinkerCAD account to access and interact with the simulation.
+
 ## Code Setup
 
 The provided Arduino code handles the initialization and continuous monitoring within the `setup()` and `loop()` functions. It reads sensor values, updates the LCD display, and controls the output devices based on the detected conditions.
