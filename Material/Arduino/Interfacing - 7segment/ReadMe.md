@@ -33,19 +33,4 @@ Make sure you have a TinkerCAD account to view or interact with the simulation.
 
 The sketch provided in this repository will display a count from 0 to 9 in an infinite loop. Each digit is displayed for a short interval before moving on to the next. The Arduino controls each segment of the display by sending signals to the corresponding pins to which the segments are connected.
 
-## Contributing
 
-Your contributions are what make the community great. If you'd like to help make this project better, please consider forking the repo and creating a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-## Acknowledgements
-
-- A big thank you to the Arduino and the open-source community for their continuous support and inspiration.
-- TinkerCAD for providing a platform to simulate and test Arduino projects easily.
-
----
-
-We hope you find this project educational and fun to build. Should you encounter any issues or if you have any questions, please feel free to open an issue in this repository.
